@@ -1,5 +1,9 @@
 //INITIAL
 
+gcloud auth login
+gcloud auth application-default login
+
+
 REGION=us-central1 
 GOOGLE_CLOUD_PROJECT=
 SERVICE_NAME=
